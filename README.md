@@ -1,6 +1,6 @@
 ## READMI
 
-* Practicando con Java: Challenge Conversor de Monedas
+* Foro Hub - Challenge - Back End
 
 # Indice
     Descripción del proyecto
